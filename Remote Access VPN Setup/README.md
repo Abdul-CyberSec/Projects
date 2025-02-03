@@ -83,7 +83,7 @@ Then VPN will be ready ❗
 
   **SHUTDOWN THE CONTAINER**
   
-  3️⃣Run command lines into Proxmox main node in SSH
+  <h3>3️⃣Run command lines into Proxmox main node in SSH</h3>
 
   enter this command :
 
@@ -94,18 +94,21 @@ Then VPN will be ready ❗
   then add this two command lines below the unpriveleged line:
   
 lxc.cgroup2.devices.allow: c 10:200 rwm
+
 lxc.mount.entry: /dev/net/tun dev/net/tun none bind,create=file
 
 **Script Source: https://tailscale.com/kb/1130/lxc-unprivileged**
 
 ![image](https://github.com/user-attachments/assets/ff7c3e5a-7e0e-446a-b575-0221a6152b64)
 
-4️⃣ TAILSCALE IS UP AND READY
+<h3>4️⃣ TAILSCALE IS UP AND READY</h3>
 
 Start the container by running tailscale up --advertise routes=**YOUR IP ADDRESS** --advertise-exit-node
 
 **scripts:** 
+
 https://tailscale.com/kb/1019/subnets
+
 https://tailscale.com/kb/1408/quick-guide-exit-nodes
 
 it will give you and url and paste it into your search bar and you will be prompted to log in into tailscale
