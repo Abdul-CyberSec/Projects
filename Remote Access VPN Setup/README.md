@@ -21,7 +21,7 @@
 
   # After the install it will give you an ip address were wireguard will be running off e.g. 192.168.**.**:10086
 
-  #2️⃣ Copy and paste that IP to the search bar and you should be welcomed with this sign in page: 
+  <h3>2️⃣ Copy and paste that IP to the search bar and you should be welcomed with this sign in page: </h3>
   
 ![image](https://github.com/user-attachments/assets/47d2992c-74a2-45a7-8c40-d186ab0e9865)
 
