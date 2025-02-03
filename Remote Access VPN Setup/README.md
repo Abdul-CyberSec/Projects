@@ -45,14 +45,14 @@ Then VPN will be ready ❗
  <h1> If you are installing Tailscale follow this following steps: </h1> 
 
   #1️⃣ Install Tailscale inside our container
-  SSH into the into the container and run this script:
+  SSH into the into the container, and run this script:
   
   curl -fsSL https://tailscale.com/install.sh | sh
   ## Script Source:(https://tailscale.com/download/linux)
 
   **Enabling SSH connection in the container**
   
-  Log in to the container using default user name roor and password you picked when you set it up
+  Log in to the container using default user name root and password you picked when you set it up
   then type this to enable a SSH connection:
   nano /etc/ssh/sshd_config
   Find PermitRootLogin and remove # and add yes after it
