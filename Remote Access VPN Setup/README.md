@@ -58,8 +58,13 @@ Then VPN will be ready ❗
   nano /etc/ssh/sshd_config
   
   Find PermitRootLogin and remove # and add yes after it
+
+  ![image](https://github.com/user-attachments/assets/fc8a4ccb-9389-4530-ad1c-167e0d1227e1)
+
   
   ctrl + O to save and the ctrl + X to exit nano mode
+
+  #2️⃣ Before setting up Tailscale, enable IPv4 and IPv6 forwarding to allow subnet advertising.
 
   
 
