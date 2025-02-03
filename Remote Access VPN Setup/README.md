@@ -17,7 +17,7 @@
   
   bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/wireguard.sh)"
   
-  ## Script Source: https://tteck.github.io/Proxmox/
+  ############### Script Source: https://tteck.github.io/Proxmox/
 
   # After the install it will give you an ip address were wireguard will be running off e.g. 192.168.**.**:10086
 
