@@ -27,15 +27,15 @@
 
 default user and password is admin | admin
 
-#You will be then be prompted to create an account 
+You will  then be prompted to create an account 
 
-#3️⃣ On the homepage click on configuration where you will be able to create the WireGuard tunnel to create the VPN connection
+<h3>3️⃣ On the homepage click on configuration where you will be able to create the WireGuard tunnel to create the VPN connection </h3>
 
   ![image](https://github.com/user-attachments/assets/11ad6b59-51df-4c76-9cf6-ff0ee1a85bcd)
 
-# set listen port to 1194, and for the ip address use 10.0.0.1/24
+ set listen port to 1194, and for the ip address use 10.0.0.1/24
 
-#4️⃣ After that you will need to create the actual client in order to use the VPN
+<h3>4️⃣ After that you will need to create the actual client in order to use the VPN </h3>
 
 ## click this button:
 ![image](https://github.com/user-attachments/assets/7f569cb8-fa26-44f7-bdfc-c3a7220888fa)
