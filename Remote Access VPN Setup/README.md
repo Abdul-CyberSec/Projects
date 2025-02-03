@@ -81,6 +81,28 @@ Then VPN will be ready ❗
 
   ctrl + O to save and the ctrl + X to exit nano mode
 
+  **SHUTDOWN THE CONTAINER**
+  
+  3️⃣Run command lines into Proxmox main node in SSH
+
+  enter this command :
+
+ nano /etc/pve/lxc/103.conf
+
+  **NOTE** 103 is my LXC ID in your case it might be different
+
+  then add this two command lines below the unpriveleged line:
+  
+lxc.cgroup2.devices.allow: c 10:200 rwm
+lxc.mount.entry: /dev/net/tun dev/net/tun none bind,create=file
+
+##Script Source: https://tailscale.com/kb/1130/lxc-unprivileged
+
+![image](https://github.com/user-attachments/assets/ff7c3e5a-7e0e-446a-b575-0221a6152b64)
+
+4️⃣ TAILSCALE IS UP AND READY
+
+Start the container by running tailscale up -- advertise routes
   
 
   
