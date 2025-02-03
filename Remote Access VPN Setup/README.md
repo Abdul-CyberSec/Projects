@@ -1,6 +1,7 @@
 ## In this tutorial we will be looking at how to set up a secure VPN on a Proxmox server using WireGuard or Tailscale, allowing remote access without exposing ports.
 
 <h2>❗First of all you should already have: </h2>
+
 - A running Proxmox VE server
 
 - A Debian/Ubuntu LXC container for the Wireguard/Tailscale VPN
