@@ -31,7 +31,9 @@ default user and password is admin | admin
 
 #4️⃣ After that you will need to create the actual client in order to use the VPN
 
-##So you will click this button: ![image](https://github.com/user-attachments/assets/7f569cb8-fa26-44f7-bdfc-c3a7220888fa)
+## click this button:
+![image](https://github.com/user-attachments/assets/7f569cb8-fa26-44f7-bdfc-c3a7220888fa)
+
 **Note name the peer and you can leave the settings as default**
 
 
