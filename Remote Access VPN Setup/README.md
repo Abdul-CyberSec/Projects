@@ -11,7 +11,8 @@
 
   <h1> If you are installing WireGuard follow this following steps: </h1> 
 
-  #1️⃣ Install WireGuard inside our container
+  <h3>1️⃣ Install WireGuard inside our container</h3>
+  
   SSH into the main node and run this script:
   
   bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/wireguard.sh)"
