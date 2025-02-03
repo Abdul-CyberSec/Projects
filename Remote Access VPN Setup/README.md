@@ -40,7 +40,7 @@ You will  then be prompted to create an account
 ## click this button:
 ![image](https://github.com/user-attachments/assets/7f569cb8-fa26-44f7-bdfc-c3a7220888fa)
 
-**Note name the peer and you can leave the settings as default**
+**you can leave the settings as default**
 
 
 Then VPN will be ready ❗
@@ -48,7 +48,8 @@ Then VPN will be ready ❗
 
  <h1> If you are installing Tailscale follow this following steps: </h1> 
 
-  #1️⃣ Install Tailscale inside our container
+  <h3>1️⃣ Install Tailscale inside our container </h3>
+  
   SSH into the into the container, and run this script:
   
   curl -fsSL https://tailscale.com/install.sh | sh
@@ -68,7 +69,17 @@ Then VPN will be ready ❗
   
   ctrl + O to save and the ctrl + X to exit nano mode
 
-  #2️⃣ Before setting up Tailscale, enable IPv4 and IPv6 forwarding to allow subnet advertising.
+ <h3>2️⃣ Before setting up Tailscale, enable IPv4 and IPv6 forwarding to allow subnet advertising.</h3>
+
+ to enable that use this nano command :
+
+ **nano /etc/sysctl.conf**
+
+  scroll down and uncomment the lines like the image shown below :
+
+  ![image](https://github.com/user-attachments/assets/1df0995f-1e4b-423d-b808-86fc269048ee)
+
+  ctrl + O to save and the ctrl + X to exit nano mode
 
   
 
