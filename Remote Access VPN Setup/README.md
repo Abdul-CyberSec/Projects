@@ -54,8 +54,11 @@ Then VPN will be ready ❗
   
   Log in to the container using default user name root and password you picked when you set it up
   then type this to enable a SSH connection:
+  
   nano /etc/ssh/sshd_config
+  
   Find PermitRootLogin and remove # and add yes after it
+  
   ctrl + O to save and the ctrl + X to exit nano mode
 
   
