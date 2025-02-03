@@ -6,7 +6,7 @@
 - Network on the container should be set on static
 
 
-  <h1 If you are installing WireGuard follow this following steps: /h1> 
+  <h1> If you are installing WireGuard follow this following steps: </h1> 
 
   #1️⃣ Install WireGuard inside our container
   SSH into the main node and run this script:
