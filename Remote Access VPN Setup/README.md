@@ -96,13 +96,18 @@ Then VPN will be ready ❗
 lxc.cgroup2.devices.allow: c 10:200 rwm
 lxc.mount.entry: /dev/net/tun dev/net/tun none bind,create=file
 
-##Script Source: https://tailscale.com/kb/1130/lxc-unprivileged
+**Script Source: https://tailscale.com/kb/1130/lxc-unprivileged**
 
 ![image](https://github.com/user-attachments/assets/ff7c3e5a-7e0e-446a-b575-0221a6152b64)
 
 4️⃣ TAILSCALE IS UP AND READY
 
-Start the container by running tailscale up -- advertise routes
+Start the container by running tailscale up --advertise routes=<<YOUR IP ADDRESS>> --advertise-exit-node
+
+**scripts:** 
+https://tailscale.com/kb/1019/subnets
+https://tailscale.com/kb/1408/quick-guide-exit-nodes
+
   
 
   
