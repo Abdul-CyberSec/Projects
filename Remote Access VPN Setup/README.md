@@ -123,5 +123,5 @@ click on the three dots again and right click on edit route settings and enable 
 
   ![image](https://github.com/user-attachments/assets/8c80bc8c-a785-47a7-b9d0-f2e5ce6ae351)
 
-# Congratulations! 🎉 You have successfully set up **WireGuard VPN on Proxmox**. Now, you can securely access your Proxmox web interface from anywhere
+# Congratulations! 🎉 You have successfully set up **WireGuard/Tailscale VPN on Proxmox**. Now, you can securely access your Proxmox web interface from anywhere
 
