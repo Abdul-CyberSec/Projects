@@ -2,7 +2,9 @@
 
 <h2>❗First of all you should already have: </h2>
 - A running Proxmox VE server
+
 - A Debian/Ubuntu LXC container for the Wireguard/Tailscale VPN
+  
 - Network on the container should be set on static
 
 
