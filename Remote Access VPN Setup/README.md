@@ -108,7 +108,20 @@ Start the container by running tailscale up --advertise routes=**YOUR IP ADDRESS
 https://tailscale.com/kb/1019/subnets
 https://tailscale.com/kb/1408/quick-guide-exit-nodes
 
-  
+it will give you and url and paste it into your search bar and you will be prompted to log in into tailscale
 
-  
+you will then be connected 
+
+
+**NOTE** : make sure to disable key expiry and enable both subnet route and exit node you can do that by :
+
+click on the three dots of your newly created tailscale machine 
+
+click disable key expiry
+
+click on the three dots again and right click on edit route settings and enable both it should look like the image below
+
+  ![image](https://github.com/user-attachments/assets/8c80bc8c-a785-47a7-b9d0-f2e5ce6ae351)
+
+# Congratulations! 🎉 You have successfully set up **WireGuard VPN on Proxmox**. Now, you can securely access your Proxmox web interface from anywhere
 
