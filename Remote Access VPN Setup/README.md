@@ -102,7 +102,7 @@ lxc.mount.entry: /dev/net/tun dev/net/tun none bind,create=file
 
 4️⃣ TAILSCALE IS UP AND READY
 
-Start the container by running tailscale up --advertise routes=<<YOUR IP ADDRESS>> --advertise-exit-node
+Start the container by running tailscale up --advertise routes=<YOUR IP ADDRESS> --advertise-exit-node
 
 **scripts:** 
 https://tailscale.com/kb/1019/subnets
