@@ -19,4 +19,16 @@ run this command:
 
 cd /var/www/html
 
-then run ' ls ' to check for files in current directory
+then run ' ls ' to check for files in current directory you should see **index.html** there
+
+# 3 Apache webpage
+
+enter this command to direct you to the webpage:
+
+firefox index.html
+
+this should direct you to the website which you then will have to change by putting your ip address of your VM
+
+http://<IpAddress>/index.html
+
+you can find your ip address by inputting this in your terminal: **ip a | grep inet**
