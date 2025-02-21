@@ -120,6 +120,17 @@ if you want to  check for either the tail(last log entries) or head(start of log
 
 ![image](https://github.com/user-attachments/assets/238a1116-b789-42a4-92cf-739a6b3f12f1)
 
+It's a good idea to know how many requests by operating system your apache website gets
+
+make sure you are in the home directory run " cd " command
+
+then run the following command below:
+![image](https://github.com/user-attachments/assets/cf926503-ea09-4b7d-8dc7-eea628ff7aca)
+
+this will count how many request came from each operating system
+![image](https://github.com/user-attachments/assets/0f5b5860-4d98-49df-a281-c45ad2bff4c2)
+
+
 
 
 
