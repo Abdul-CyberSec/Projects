@@ -149,7 +149,7 @@ THis script will be lookuing for HTTP errors and will output top 10 IP and their
 
 ![image](https://github.com/user-attachments/assets/ca7913f9-2b3e-4a21-886d-796fd977f34f)
 
-# 5️⃣ Log Analysis Bash Script
+# 6️⃣ Log Analysis Bash Script
 
 We will automate the log analysis with a bash script
 
