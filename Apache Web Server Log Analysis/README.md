@@ -136,8 +136,39 @@ next command will show users that accessed the website ordered by the number of 
 
 ![image](https://github.com/user-attachments/assets/4dfff130-4f10-40dd-9709-f169de4c54b4)
 
+This command will be to detect SQL attacks and we will show those attacks
 
+SQL attacks : https://www.acunetix.com/websitesecurity/sql-injection/ 
 
+![image](https://github.com/user-attachments/assets/c931adea-2a11-4174-bfcb-dffcd165ae82)
 
+Detect brute force attacks if a certain URL gets many request from a certain IP
+![image](https://github.com/user-attachments/assets/1107188a-198b-4c75-8ded-67572d332d95)
+
+THis script will be lookuing for HTTP errors and will output top 10 IP and their frequency. If an IP keeps triggering 404 and 403 errors it may be scanning for vulnerabilities
+
+![image](https://github.com/user-attachments/assets/ca7913f9-2b3e-4a21-886d-796fd977f34f)
+
+# 5️⃣ Log Analysis Bash Script
+
+We will automate the log analysis with a bash script
+
+run ' nano ApacheLogAnalysis.sh ' on the terminal
+
+using same scripts as above only adding a for loop to check for all login URLS for brute force attacks
+![image](https://github.com/user-attachments/assets/075b9163-5163-48e8-85eb-55eebbde1d51)
+![image](https://github.com/user-attachments/assets/611a1e7b-75e8-4f42-8655-2b3ec537b500)
+
+ctrl + O and enter
+
+ctrl + x to exit
+
+now make the script executable:
+
+chmod + x ApacheLogAnalysis.sh
+
+then Run the script:
+
+./ApacheLogAnalysis.sh
 
 
