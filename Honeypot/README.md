@@ -26,9 +26,19 @@ By combining this tools, this project will help me build a more comprehensive un
  <img width="1336" height="89" alt="image" src="https://github.com/user-attachments/assets/60f73356-451a-4fde-9962-7b128ceefa9e" />
 
 3. Create VMs:
-   - hp-cowrie (VM 108) — 2 GB RAM, 2 cores, 20–40 GB disk, network should be → vmbrHP
+   - HPcowrie (VM 108) — 2 GB RAM, 2 cores, 20–40 GB disk, network should be → vmbrHP
    - analysis  (VM 109) — 4–8 GB RAM, 2–4 cores, 40–80 GB disk, network should be → vmbrHP
    - attacker  (VM 110) — 4–8 GB RAM, 2–4 cores, 30–60 GB disk, network should be → vmbrHP
     <img width="255" height="71" alt="image" src="https://github.com/user-attachments/assets/efc3d6cb-976e-4920-9b0a-1e5695dea5a7" />
 
-4. Ensure each VM has exactly one NIC attached to `vmbrHP`.
+## 4. Set IPs 
+
+
+
+### In order to Find the interface name
+run
+ip -br a
+
+in this case the 3 virtual machines have the same interface name  <img width="256" height="30" alt="image" src="https://github.com/user-attachments/assets/edbf72c7-a6e6-42dc-a814-4508d870bf18" />
+
+
