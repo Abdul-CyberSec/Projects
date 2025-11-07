@@ -32,8 +32,9 @@ By combining this tools, this project will help me build a more comprehensive un
     <img width="255" height="71" alt="image" src="https://github.com/user-attachments/assets/efc3d6cb-976e-4920-9b0a-1e5695dea5a7" />
 
 ## 4. Set IPs 
-
-
+**helpful documentation for this section**
+https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/
+https://netplan.readthedocs.io/en/latest/netplan-yaml/
 
 ### In order to Find the interface name
 run
@@ -45,5 +46,7 @@ run this command
 
 <img width="858" height="26" alt="image" src="https://github.com/user-attachments/assets/4519cbc0-3671-4d18-96c5-56a604f15d2a" />
 
+then for the HPcowrie I will set this 
 
+<img width="924" height="252" alt="image" src="https://github.com/user-attachments/assets/4bbece17-281d-409e-9b3a-d2dac4a88f07" />
 
