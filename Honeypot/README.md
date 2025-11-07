@@ -32,7 +32,7 @@ By combining this tools, this project will help me build a more comprehensive un
     <img width="255" height="71" alt="image" src="https://github.com/user-attachments/assets/efc3d6cb-976e-4920-9b0a-1e5695dea5a7" />
 
 ## 4. Set IPs 
-**helpful documentation for this section**
+**helpful documentation for this step**
 - https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/
 - https://netplan.readthedocs.io/en/latest/netplan-yaml/
 
