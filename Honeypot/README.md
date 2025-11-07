@@ -42,5 +42,8 @@ ip -br a
 in this case the 3 virtual machines have the same interface name  <img width="256" height="30" alt="image" src="https://github.com/user-attachments/assets/edbf72c7-a6e6-42dc-a814-4508d870bf18" />
 
 run this command
-<img width="855" height="47" alt="Screenshot 2025-11-07 221253" src="https://github.com/user-attachments/assets/790eda3a-00a6-434c-9bb2-40d3c84e29d4" />
+
+<img width="858" height="26" alt="image" src="https://github.com/user-attachments/assets/4519cbc0-3671-4d18-96c5-56a604f15d2a" />
+
+
 
