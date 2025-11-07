@@ -33,8 +33,8 @@ By combining this tools, this project will help me build a more comprehensive un
 
 ## 4. Set IPs 
 **helpful documentation for this section**
-https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/
-https://netplan.readthedocs.io/en/latest/netplan-yaml/
+- https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/
+- https://netplan.readthedocs.io/en/latest/netplan-yaml/
 
 ### In order to Find the interface name
 run
