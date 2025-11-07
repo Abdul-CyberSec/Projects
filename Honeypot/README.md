@@ -20,15 +20,15 @@ By combining this tools, this project will help me build a more comprehensive un
 
 # Steps
 1. Upload Ubuntu Server ISO to Proxmox storage.
-2. Create internal bridge `vmbrHp` (no IP, no ports).
+2. Create internal bridge `vmbrHP` (no IP, no ports).
 
 
  <img width="1336" height="89" alt="image" src="https://github.com/user-attachments/assets/60f73356-451a-4fde-9962-7b128ceefa9e" />
 
 3. Create VMs:
-   - hp-cowrie (VM 108) — 2 GB RAM, 2 cores, 20–40 GB disk, network should be → vmbr-hp
-   - analysis  (VM 109) — 4–8 GB RAM, 2–4 cores, 40–80 GB disk, network should be → vmbr-hp
-   - attacker  (VM 110) — 4–8 GB RAM, 2–4 cores, 30–60 GB disk, network should be → vmbr-hp
+   - hp-cowrie (VM 108) — 2 GB RAM, 2 cores, 20–40 GB disk, network should be → vmbrHP
+   - analysis  (VM 109) — 4–8 GB RAM, 2–4 cores, 40–80 GB disk, network should be → vmbrHP
+   - attacker  (VM 110) — 4–8 GB RAM, 2–4 cores, 30–60 GB disk, network should be → vmbrHP
     <img width="255" height="71" alt="image" src="https://github.com/user-attachments/assets/efc3d6cb-976e-4920-9b0a-1e5695dea5a7" />
 
-4. Ensure each VM has exactly one NIC attached to `vmbrHp`.
+4. Ensure each VM has exactly one NIC attached to `vmbrHP`.
