@@ -50,3 +50,8 @@ then for the HPcowrie I will set this
 
 <img width="924" height="252" alt="image" src="https://github.com/user-attachments/assets/4bbece17-281d-409e-9b3a-d2dac4a88f07" />
 
+For my Analysis VM I will set this
+
+<img width="723" height="224" alt="image" src="https://github.com/user-attachments/assets/3300e580-0970-46d8-9978-40af86410b73" />
+
+
