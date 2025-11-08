@@ -54,4 +54,9 @@ For my Analysis VM I will set this
 
 <img width="723" height="224" alt="image" src="https://github.com/user-attachments/assets/3300e580-0970-46d8-9978-40af86410b73" />
 
+<img width="1202" height="167" alt="image" src="https://github.com/user-attachments/assets/f30106a4-60cd-4ec0-8ec5-7f511123d6f3" />
+
+
+<img width="1146" height="96" alt="image" src="https://github.com/user-attachments/assets/28955e1b-1914-4f85-8189-7885e647f7a2" />
+
 
