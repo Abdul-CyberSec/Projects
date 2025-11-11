@@ -1,9 +1,8 @@
 <h1> Wireshark is a powerful, open-source network protocol analyzer which can be used to analyse network traffic and identify suspicious or malicious network traffic. </h1>
 
-### Learning Objectives
+## Learning Objectives
 
-
-### - Understand what Wireshark is used for and when packet capture is helpful.
+#### - Understand what Wireshark is used for and when packet capture is helpful.
 
 #### - Learn how to start, stop, and save packet captures in Wireshark.
 
