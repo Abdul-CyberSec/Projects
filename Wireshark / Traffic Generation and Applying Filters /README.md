@@ -5,14 +5,14 @@
 
 # - Understand what Wireshark is used for and when packet capture is helpful.
 
-## - Learn how to start, stop, and save packet captures in Wireshark.
+#### - Learn how to start, stop, and save packet captures in Wireshark.
 
-# - Identify the difference between capture filters and display filters.
+#### - Identify the difference between capture filters and display filters.
 
-# - Apply basic display filters to isolate specific network traffic (e.g., by IP, protocol, or port).
+#### - Apply basic display filters to isolate specific network traffic (e.g., by IP, protocol, or port).
 
-# - Generate network traffic intentionally (e.g., using ping, web browsing, or simple client/server activity) and observe it in Wireshark.
+#### - Generate network traffic intentionally (e.g., using ping, web browsing, or simple client/server activity) and observe it in Wireshark.
 
-# - Inspect packet structure (Ethernet, IP, TCP/UDP headers) and interpret key fields.
+#### - Inspect packet structure (Ethernet, IP, TCP/UDP headers) and interpret key fields.
 
-# - Save, export, and document packet captures for analysis or reporting.
+#### - Save, export, and document packet captures for analysis or reporting.
