@@ -18,5 +18,5 @@
 
 
  
-##### I will start Wireshark on my Kali Linux VM and then find my ip by inputting ifconfig OR ip a in my Kali Linux terminal
+### I will start Wireshark on my Kali Linux VM and then find my ip by inputting ifconfig OR ip a in my Kali Linux terminal
 <img width="997" height="744" alt="image" src="https://github.com/user-attachments/assets/de252717-b2d7-4296-8df8-1a5d81c5fab5" />
