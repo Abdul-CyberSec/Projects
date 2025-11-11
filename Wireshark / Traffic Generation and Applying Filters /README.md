@@ -3,7 +3,7 @@
 ### Learning Objectives
 
 
-# - Understand what Wireshark is used for and when packet capture is helpful.
+### - Understand what Wireshark is used for and when packet capture is helpful.
 
 #### - Learn how to start, stop, and save packet captures in Wireshark.
 
