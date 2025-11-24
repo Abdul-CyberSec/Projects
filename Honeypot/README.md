@@ -61,4 +61,8 @@ For my Analysis VM I will set this
 
 <img width="1146" height="96" alt="image" src="https://github.com/user-attachments/assets/28955e1b-1914-4f85-8189-7885e647f7a2" />
 
+For the attacker VM I will set
+
+<img width="743" height="213" alt="image" src="https://github.com/user-attachments/assets/ef8f1d51-bd73-4fad-be20-c023be565db1" />
+
 
