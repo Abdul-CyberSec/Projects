@@ -49,6 +49,8 @@ run this command
 then for the HPcowrie I will set this 
 
 <img width="924" height="252" alt="image" src="https://github.com/user-attachments/assets/4bbece17-281d-409e-9b3a-d2dac4a88f07" />
+<img width="743" height="213" alt="image" src="https://github.com/user-attachments/assets/d6530ad8-c1f6-4cfa-8a75-55269cde6666" />
+
 
 For my Analysis VM I will set this
 
