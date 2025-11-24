@@ -63,6 +63,23 @@ For my Analysis VM I will set this
 
 For the attacker VM I will set
 
-<img width="743" height="213" alt="image" src="https://github.com/user-attachments/assets/ef8f1d51-bd73-4fad-be20-c023be565db1" />
+<img width="399" height="223" alt="image" src="https://github.com/user-attachments/assets/64f0eb2f-3a1e-436d-bc22-854974db3d8b" />
+<img width="779" height="180" alt="image" src="https://github.com/user-attachments/assets/6d963193-0b35-4eba-9117-d99d32aac83e" />
+
+Ping to ensure connectivity 
+
+<img width="699" height="139" alt="image" src="https://github.com/user-attachments/assets/f9a4e562-44a8-4409-b07d-8a3147ab00ca" />
+<img width="743" height="246" alt="image" src="https://github.com/user-attachments/assets/cd168b46-74f2-4425-af5a-20ebe2bef671" />
+
+
+## 5.Install Cowrrie 
+
+Install Docker on my VM 
+
+**You can get the script : https://docs.docker.com/engine/install/ubuntu**
+
+<img width="834" height="148" alt="image" src="https://github.com/user-attachments/assets/449d7b53-c066-4904-aa8c-f619d1664a02" />
+<img width="817" height="200" alt="image" src="https://github.com/user-attachments/assets/670e33de-90d6-420e-ba2b-655a89d80098" />
+<img width="836" height="48" alt="image" src="https://github.com/user-attachments/assets/30a5d9a6-c294-4f35-9e18-acbeb66c38a4" />
 
 
