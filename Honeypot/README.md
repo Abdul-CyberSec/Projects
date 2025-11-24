@@ -78,8 +78,5 @@ Install Docker on my VM
 
 **You can get the script : https://docs.docker.com/engine/install/ubuntu**
 
-<img width="834" height="148" alt="image" src="https://github.com/user-attachments/assets/449d7b53-c066-4904-aa8c-f619d1664a02" />
-<img width="817" height="200" alt="image" src="https://github.com/user-attachments/assets/670e33de-90d6-420e-ba2b-655a89d80098" />
-<img width="836" height="48" alt="image" src="https://github.com/user-attachments/assets/30a5d9a6-c294-4f35-9e18-acbeb66c38a4" />
 
 
