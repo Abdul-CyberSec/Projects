@@ -74,7 +74,7 @@ Ping to ensure connectivity
 
 ## 5.Installing Cowrrie 
 
-First Install Docker compose on my VM 
+First Install Docker Engine and Compose on my VM 
 
 **You can get the script : https://docs.docker.com/engine/install/ubuntu**
 
