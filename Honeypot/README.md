@@ -72,11 +72,15 @@ Ping to ensure connectivity
 <img width="743" height="246" alt="image" src="https://github.com/user-attachments/assets/cd168b46-74f2-4425-af5a-20ebe2bef671" />
 
 
-## 5.Install Cowrrie 
+## 5.Installing Cowrrie 
 
-Install Docker on my VM 
+First Install Docker on my VM 
 
 **You can get the script : https://docs.docker.com/engine/install/ubuntu**
+
+make sure it is up and running
+
+<img width="774" height="649" alt="Screenshot 2025-11-26 142431" src="https://github.com/user-attachments/assets/fcbbd71e-6405-44f7-9657-ff4557fcd4ea" />
 
 
 
