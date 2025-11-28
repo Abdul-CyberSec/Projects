@@ -74,7 +74,7 @@ Ping to ensure connectivity
 
 ## 5.Installing Cowrrie 
 
-First Install Docker on my VM 
+First Install Docker compose on my VM 
 
 **You can get the script : https://docs.docker.com/engine/install/ubuntu**
 
@@ -82,5 +82,9 @@ make sure it is up and running
 
 <img width="774" height="649" alt="Screenshot 2025-11-26 142431" src="https://github.com/user-attachments/assets/fcbbd71e-6405-44f7-9657-ff4557fcd4ea" />
 
+Install cowrie from here : https://github.com/cowrie/cowrie  **includes docker support and documentation**
 
+Clone official Cowrie repo
+move into the docker directory inside the repository
+<img width="753" height="308" alt="image" src="https://github.com/user-attachments/assets/67eebe5c-1a5d-4dbf-87a5-a1ce41453991" />
 
