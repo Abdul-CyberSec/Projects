@@ -1,4 +1,4 @@
-Risk assesment help organizations identify vulnerabilites and threats, allowing them to prioritize security in certain assets that might be more vulnerable or susceptible to attacks (e.g. monthly phishing awareness programs for staff )   this helps make better decisions about resorce allocation and ensures business contuinity 
+Risk assesment help organizations identify vulnerabilites and threats, allowing them to prioritize security in certain assets that might be more vulnerable or susceptible to attacks (e.g. monthly phishing awareness programs for staff )   this helps organizations make better decisions about resorce allocation and ensures business contuinity. 
 
 <h1> Risk description </h1>
 Currently, there is inadequate management of assets. Additionally, Botium Toys does
@@ -9,10 +9,10 @@ The first of the five functions of the NIST CSF is Identify. Botium Toys will ne
 dedicate resources to identify assets so they can appropriately manage them.
 Additionally, they will need to classify existing assets and determine the impact of the
 loss of existing assets, including systems, on business continuity.
-Risk score
+<h1> Risk score </h1> 
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of
 controls and adherence to compliance best practices.
-Additional comments
+<h1> Additional comments</h1>
 The potential impact from the loss of an asset is rated as medium, because the IT
 department does not know which assets would be at risk. The risk to assets or fines
 from governing bodies is high because Botium Toys does not have all of the necessary
