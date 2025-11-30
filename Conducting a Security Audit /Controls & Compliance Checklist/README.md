@@ -156,3 +156,6 @@
   </tr>
 </table>
 
+<h2> Recommendations </h2>
+
+<p>Botium Toys in order to improve their security posture they have to implement Least Privilege, Disaster recovery plans, needs to improve their password policy and adhere to password complexity requirements. </p>
