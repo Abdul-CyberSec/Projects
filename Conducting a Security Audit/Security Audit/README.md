@@ -18,4 +18,4 @@ The IT manager has implemented the National Institute of Standards and Technolog
 My task is to ask is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
 
-**all fictional**
+** *all fictional* **
