@@ -53,18 +53,14 @@
   </tr>
   <tr>
     <td>Locks (offices, storefront, warehouse)</td>
-    <td></td><td>&#10006;</td>
+    <td>&#10004;</td><td></td>
   </tr>
   <tr>
     <td>Closed-circuit television (CCTV) surveillance</td>
     <td>&#10004;</td><td></td>
   </tr>
   <tr>
-    <td>Locks (physical asset access)</td>
-    <td>&#10004;</td><td></td>
-  </tr>
-  <tr>
-    <td>Locking cabinets / secured storage</td>
+    <td>Fire detection/prevention (fire alarm, sprinkler system, etc.)</td>
     <td>&#10004;</td><td></td>
   </tr>
 </table>
