@@ -29,3 +29,8 @@ enter your VM
 <img width="939" height="588" alt="image" src="https://github.com/user-attachments/assets/5e0e66a2-8106-4cb1-bcda-df1c017ec01e" />
 <img width="2500" height="1563" alt="image" src="https://github.com/user-attachments/assets/7cdc71ed-ac9e-4e1b-b897-106c3fd7f0e7" />
 <img width="2500" height="1563" alt="image" src="https://github.com/user-attachments/assets/217b6cf7-305d-441f-9378-8dcabd4d4953" />
+
+<h2> Connectivity </h2>
+
+Ping the router to ensure connectivity
+<img width="939" height="588" alt="image" src="https://github.com/user-attachments/assets/53d2698e-3efc-48b2-8d91-e2c183a26756" />
