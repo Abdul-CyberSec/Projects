@@ -90,5 +90,5 @@
 <hr/>
 
 <h2>Summary</h2>
-<p>This audit will assess existing controls, identify gaps, and determine whether current measures provide effective defense-in-depth, support compliance requirements, and reduce security risks across the organization’s infrastructure.</p>
+<p>This audit will assess existing controls, identify gaps, and determine whether current measures provide effective defense in depth, support compliance requirements, and reduce security risks across the organization’s infrastructure.</p>
 
