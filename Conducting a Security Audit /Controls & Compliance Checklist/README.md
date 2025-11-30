@@ -102,4 +102,25 @@
 <table>
   <tr>
     <th>Best Practice</th>
-    <th>Yes<
+    <th>Yes</th>
+    <th>No</th>
+  </tr>
+  <tr>
+    <td>E.U. customers’ data is kept private and secured.</td>
+    <td>&#10004;</td><td></td>
+  </tr>
+  <tr>
+    <td>There is a plan in place to notify E.U. customers within 72 hours if their data is compromised or breached.</td>
+    <td>&#10004;</td><td></td>
+  </tr>
+  <tr>
+    <td>Ensure data is properly classified and inventoried.</td>
+    <td>&#10004;</td><td></td>
+  </tr>
+  <tr>
+    <td>Enforce privacy policies, procedures, and processes to properly document and maintain data.</td>
+    <td>&#10004;</td><td></td>
+  </tr>
+</table>
+
+
