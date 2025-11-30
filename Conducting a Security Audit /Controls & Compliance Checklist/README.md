@@ -97,7 +97,7 @@
 </table>
 
 <h2>GDPR Compliance Checklist</h2>
-<p><strong>Question:</strong> Does Botium Toys currently adhere to this compliance best practice?</p>
+<p><strong>Question:</strong> Does Botium Toys currently adhere to this GDPR best practice?</p>
 
 <table>
   <tr>
@@ -105,23 +105,29 @@
     <th>Yes</th>
     <th>No</th>
   </tr>
+
   <tr>
-    <td>E.U. customers’ data is kept private and secured.</td>
-    <td>&#10006;</td><td></td>
+    <td>E.U. customers’ data is kept private/secured.</td>
+    <td></td><td>&#10006;</td>
   </tr>
+
   <tr>
-    <td>There is a plan in place to notify E.U. customers within 72 hours if their data is compromised or breached.</td>
-   </td><td></td>&#10004;</td>
-  </tr>
-  <tr>
-    <td>Ensure data is properly classified and inventoried.</td>
+    <td>There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.</td>
     <td>&#10004;</td><td></td>
   </tr>
+
+  <tr>
+    <td>Ensure data is properly classified and inventoried.</td>
+    <td></td><td>&#10006;</td>
+  </tr>
+
   <tr>
     <td>Enforce privacy policies, procedures, and processes to properly document and maintain data.</td>
     <td>&#10004;</td><td></td>
   </tr>
+
 </table>
+
 
 <h2>SOC Compliance Checklist (SOC 1 / SOC 2)</h2>
 <p><strong>Question:</strong> Does Botium Toys currently adhere to this compliance best practice?</p>
