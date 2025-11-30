@@ -5,7 +5,7 @@ Botium Toys is a small U.S. business that develops and sells toys. The business 
 
 This internal audit was necessary because the IT manager was worried about maintaining compliance and business operations.
 
-The purpose of this audit is to better secure the company’s infrastruture and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets and ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
+The purpose of this audit is to better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets and ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
 
 
 <h1>Scope & Frameworks </h1> The scope of this audit is defined as the entire security program at Botium Toys.
