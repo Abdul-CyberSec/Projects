@@ -1,6 +1,7 @@
 
 <h1>  Introduction </h1>
-Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
+
+Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their IT department is under increasing pressure to support their online market worldwide. 
 
 This internal audit was necessary because the IT manager was worried about maintaining compliance and business operations.
 
