@@ -90,4 +90,4 @@
 <hr/>
 
 <h2>Summary</h2>
-<p><strong>Administrative controls</strong> establish security expectations, <strong>technical controls</strong> enforce protections, and <strong>physical controls</strong> secure the environment. Each control type—preventative, detective, corrective, and deterrent—contributes to a layered defense that reduces risk and enhances organizational resilience.</p>
+<p><strong>I will have to review Botium Toys controls</strong> and how they secure their environment.</p>
