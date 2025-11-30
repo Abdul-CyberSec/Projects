@@ -1,5 +1,5 @@
 <h2>Controls Assessment Checklist</h2>
-<p><strong>Question:</strong> Does Botium Toys currently have this control in place?</p>
+<p>Does Botium Toys currently have this controls in place?</p>
 
 <table>
   <tr>
@@ -68,3 +68,31 @@
     <td>&#10004;</td><td></td>
   </tr>
 </table>
+
+<h2>Compliance Checklist</h2>
+<p><strong>Question:</strong> Does Botium Toys currently adhere to this compliance best practice?</p>
+
+<table>
+  <tr>
+    <th>Best Practice</th>
+    <th>Yes</th>
+    <th>No</th>
+  </tr>
+  <tr>
+    <td>Only authorized users have access to customers’ credit card information.</td>
+    <td></td><td>&#10006;</td>
+  </tr>
+  <tr>
+    <td>Credit card information is stored, accepted, processed, and transmitted internally in a secure environment.</td>
+    <td></td><td>&#10006;</td>
+  </tr>
+  <tr>
+    <td>Implement data encryption procedures to better secure credit card transaction touchpoints and data.</td>
+    <td></td><td>&#10006;</td>
+  </tr>
+  <tr>
+    <td>Adopt secure password management policies.</td>
+    <td></td><td>&#10006;</td>
+  </tr>
+</table>
+
