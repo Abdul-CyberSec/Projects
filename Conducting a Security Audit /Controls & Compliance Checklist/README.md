@@ -123,4 +123,30 @@
   </tr>
 </table>
 
+<h2>SOC Compliance Checklist (SOC 1 / SOC 2)</h2>
+<p><strong>Question:</strong> Does Botium Toys currently adhere to this compliance best practice?</p>
+
+<table>
+  <tr>
+    <th>Best Practice</th>
+    <th>Yes</th>
+    <th>No</th>
+  </tr>
+  <tr>
+    <td>User access policies are established.</td>
+    <td></td><td>&#10006;</td>
+  </tr>
+  <tr>
+    <td>Sensitive data (PII/SPII) is confidential/private.</td>
+    <td></td><td>&#10006;</td>
+  </tr>
+  <tr>
+    <td>Data integrity ensures the data is consistent, complete, accurate, and validated.</td>
+    <td>&#10004;</td><td></td>
+  </tr>
+  <tr>
+    <td>Data is available to individuals authorized to access it.</td>
+    <td>&#10004;</td><td></td>
+  </tr>
+</table>
 
