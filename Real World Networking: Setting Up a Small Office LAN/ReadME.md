@@ -23,3 +23,9 @@ Use the remaining cable to connect from the switch to the Router <b> G0/0 </b> <
 
 <h2> Task 2 Give everything an IP Address </h2>
 
+enter your VM
+
+<img width="614" height="746" alt="image" src="https://github.com/user-attachments/assets/d457277a-93d7-4eca-8d4b-919184f8a84c" />
+<img width="939" height="588" alt="image" src="https://github.com/user-attachments/assets/5e0e66a2-8106-4cb1-bcda-df1c017ec01e" />
+<img width="2500" height="1563" alt="image" src="https://github.com/user-attachments/assets/7cdc71ed-ac9e-4e1b-b897-106c3fd7f0e7" />
+<img width="2500" height="1563" alt="image" src="https://github.com/user-attachments/assets/217b6cf7-305d-441f-9378-8dcabd4d4953" />
