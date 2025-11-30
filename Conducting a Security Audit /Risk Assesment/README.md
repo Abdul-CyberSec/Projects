@@ -4,11 +4,7 @@ Risk assesment help organizations identify vulnerabilites and threats, allowing 
 Currently, there is inadequate management of assets. Additionally, Botium Toys does
 not have all of the proper controls in place and may not be fully compliant with U.S. and
 international regulations and standards.
-Control best practices
-The first of the five functions of the NIST CSF is Identify. Botium Toys will need to
-dedicate resources to identify assets so they can appropriately manage them.
-Additionally, they will need to classify existing assets and determine the impact of the
-loss of existing assets, including systems, on business continuity.
+
 <h1> Risk score </h1> 
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of
 controls and adherence to compliance best practices.
