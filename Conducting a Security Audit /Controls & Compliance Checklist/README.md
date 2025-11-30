@@ -154,4 +154,4 @@
 
 <h2> Recommendations </h2>
 
-<p>Botium Toys in order to improve their security posture they have to implement Least Privilege, Disaster recovery plans, needs to improve their password policy and adhere to password complexity requirements, separation of duties, IDS/IPS , regular backups, make sure that intervention for legacy systems are clear and that there are schedules in place to patch them, . </p>
+<p>To strenghten its security posture, Botium Toys must implement several missing controls. The organization should enforce Least Privilege (this will improve user access poilicies), a comprehensive disaster recovery plans, needs to improve their password policy and adhere to password complexity requirements, establish separation of duties, neeeds to integrate IDS/IPS to identify and mitigate suspicious network activity , regular backups, make sure that intervention for legacy systems are clear and that there are schedules in place to patch them, encryption to ensure confidentiality (of SPII), enforce a centralized password management . </p>
