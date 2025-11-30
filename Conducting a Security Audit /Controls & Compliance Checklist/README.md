@@ -96,3 +96,10 @@
   </tr>
 </table>
 
+<h2>GDPR Compliance Checklist</h2>
+<p><strong>Question:</strong> Does Botium Toys currently adhere to this compliance best practice?</p>
+
+<table>
+  <tr>
+    <th>Best Practice</th>
+    <th>Yes<
