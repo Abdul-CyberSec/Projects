@@ -20,6 +20,7 @@ controls in place and is not fully adhering to best practices related to complia
 regulations that keep critical data private/secure. Review the following bullet points for
 specific details:
 
+
 ● Currently, all Botium Toys employees have access to internally stored data and
 may be able to access cardholder data and customers’ PII/SPII.
 
