@@ -107,7 +107,7 @@
   </tr>
   <tr>
     <td>E.U. customers’ data is kept private and secured.</td>
-    <td>&#10004;</td><td></td>
+    <td>&#10006;</td><td></td>
   </tr>
   <tr>
     <td>There is a plan in place to notify E.U. customers within 72 hours if their data is compromised or breached.</td>
