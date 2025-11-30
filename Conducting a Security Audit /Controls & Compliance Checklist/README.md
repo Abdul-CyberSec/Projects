@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td>There is a plan in place to notify E.U. customers within 72 hours if their data is compromised or breached.</td>
-    <td>&#10004;</td><td></td>
+   </td><td></td>&#10004;</td>
   </tr>
   <tr>
     <td>Ensure data is properly classified and inventoried.</td>
