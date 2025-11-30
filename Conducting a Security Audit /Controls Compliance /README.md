@@ -90,4 +90,5 @@
 <hr/>
 
 <h2>Summary</h2>
-<p><strong>I will have to review Botium Toys controls</strong> and how they secure their environment.</p>
+<p>Botium Toys relies on administrative, technical, and physical controls to protect assets and maintain secure operations. This audit will assess existing controls, identify gaps, and determine whether current measures provide effective defense-in-depth, support compliance requirements, and reduce security risks across the organization’s infrastructure.</p>
+
