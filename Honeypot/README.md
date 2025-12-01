@@ -87,4 +87,11 @@ Install cowrie from here : https://github.com/cowrie/cowrie  **includes docker s
 Clone official Cowrie repo
 move into the docker directory inside the repository
 <img width="753" height="308" alt="image" src="https://github.com/user-attachments/assets/67eebe5c-1a5d-4dbf-87a5-a1ce41453991" />
+<img width="499" height="114" alt="image" src="https://github.com/user-attachments/assets/36984e4f-4522-4af2-aad1-9108088a239c" />
+
+make sure you see this message after running this command : docker run -p 2222:2222 cowrie/cowrie:latest
+<img width="740" height="156" alt="image" src="https://github.com/user-attachments/assets/e722071f-8f97-47ba-bc04-b392d3dd05f1" />
+
+
+## 6.Installing Zeek 
 
