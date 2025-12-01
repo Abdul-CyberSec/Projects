@@ -108,3 +108,6 @@ Tab and OK to confirm installation with default configuration
 
 <img width="774" height="487" alt="Screenshot 2025-12-01 221410" src="https://github.com/user-attachments/assets/56952d43-2835-41aa-9f52-a628f28c6409" />
 
+This command will allow you to run the Zeek command line through your terminal
+<img width="784" height="80" alt="image" src="https://github.com/user-attachments/assets/caf3e8d9-a016-4b29-b6f3-3cd578161adc" />
+
