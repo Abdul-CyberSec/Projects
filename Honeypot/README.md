@@ -89,9 +89,22 @@ move into the docker directory inside the repository
 <img width="753" height="308" alt="image" src="https://github.com/user-attachments/assets/67eebe5c-1a5d-4dbf-87a5-a1ce41453991" />
 <img width="499" height="114" alt="image" src="https://github.com/user-attachments/assets/36984e4f-4522-4af2-aad1-9108088a239c" />
 
-make sure you see this message after running this command : docker run -p 2222:2222 cowrie/cowrie:latest
+make sure you see this message after running this command : **docker run -p 2222:2222 cowrie/cowrie:latest**
 <img width="740" height="156" alt="image" src="https://github.com/user-attachments/assets/e722071f-8f97-47ba-bc04-b392d3dd05f1" />
 
 
-## 6.Installing Zeek 
+## 6.Installing Zeek & Suricata
+
+ Add the Zeek repository to your Ubuntu system : echo 'deb http://download.opensuse.org/repositories/security:/zeek/xUbuntu_24.04/ /' | sudo tee /etc/apt/sources.list.d/security:zeek.list
+<img width="1205" height="71" alt="image" src="https://github.com/user-attachments/assets/f04d4600-80e8-4a80-b88d-52c31ad83d22" />
+
+add the GPG key for the Zeek repository
+<img width="814" height="110" alt="image" src="https://github.com/user-attachments/assets/a0616aa3-0b2e-4856-bdc7-68454719f56b" />
+
+Install zeek with this command 
+<img width="737" height="29" alt="image" src="https://github.com/user-attachments/assets/5b06dc13-db0d-4a68-908d-0a8e17760fc3" />
+
+Tab and OK to confirm installation with default configuration 
+
+<img width="774" height="487" alt="Screenshot 2025-12-01 221410" src="https://github.com/user-attachments/assets/56952d43-2835-41aa-9f52-a628f28c6409" />
 
