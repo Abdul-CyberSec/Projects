@@ -111,3 +111,8 @@ Tab and OK to confirm installation with default configuration
 This command will allow you to run the Zeek command line through your terminal
 <img width="784" height="80" alt="image" src="https://github.com/user-attachments/assets/caf3e8d9-a016-4b29-b6f3-3cd578161adc" />
 
+run this command to check the Zeek version and Zeek commands
+<img width="708" height="50" alt="image" src="https://github.com/user-attachments/assets/28f5c4d4-746e-4e8c-baa2-ccd967e770e8" />
+
+Install Suricata with this command 
+<img width="1169" height="75" alt="image" src="https://github.com/user-attachments/assets/de123086-cebd-458a-a9f7-c9b7275792f4" />
