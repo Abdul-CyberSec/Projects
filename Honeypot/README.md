@@ -116,3 +116,13 @@ run this command to check the Zeek version and Zeek commands
 
 Install Suricata with this command 
 <img width="1169" height="75" alt="image" src="https://github.com/user-attachments/assets/de123086-cebd-458a-a9f7-c9b7275792f4" />
+
+enter sudo nano /etc/default/suricata
+
+make sure to change IFACE so it matches your interface
+<img width="1178" height="575" alt="image" src="https://github.com/user-attachments/assets/0222e40b-5580-4f72-b598-645c99e13f70" />
+
+make sure Suricata is up and running 
+<img width="1198" height="276" alt="Screenshot 2026-01-04 163113" src="https://github.com/user-attachments/assets/e3c68ba6-f2f7-4179-9bdb-136b78c2cb1d" />
+
+
