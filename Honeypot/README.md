@@ -114,6 +114,16 @@ This command will allow you to run the Zeek command line through your terminal
 run this command to check the Zeek version and Zeek commands
 <img width="708" height="50" alt="image" src="https://github.com/user-attachments/assets/28f5c4d4-746e-4e8c-baa2-ccd967e770e8" />
 
+enter this command: 
+<img width="730" height="28" alt="image" src="https://github.com/user-attachments/assets/e9369090-0ac8-414a-b875-a7df92dfe9aa" />
+
+make sure interface matches your desired interface
+<img width="1169" height="270" alt="image" src="https://github.com/user-attachments/assets/165abb69-0875-459d-a14a-509d85101463" />
+
+deploy Zeek
+<img width="703" height="33" alt="image" src="https://github.com/user-attachments/assets/e66415d4-606d-4fd5-9e1b-a02304a9f108" />
+
+
 Install Suricata with this command 
 <img width="1169" height="75" alt="image" src="https://github.com/user-attachments/assets/de123086-cebd-458a-a9f7-c9b7275792f4" />
 
