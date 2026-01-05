@@ -10,54 +10,35 @@
 ## Scope 
 - AI is expected to amplify existing threats.   
 - Cloud dependency means reliability issues can cascade far beyond a single service or region
-## Part 1: what changes with AI by 2027
 
-### AI doesn’t replace attackers — it accelerates them
+
+## AI is a catalyst for cybercrime
 The NCSC’s assessment focuses on how AI developments may affect cyber threat between now and 2027.   
 
 The practical defender interpretation:
-- AI boosts scale and efficiency across intrusion steps (recon, social engineering, vulnerability research, exploitation workflows).
-- That increases pressure on basic disciplines: patching, hardening, detection, and response speed.   
-
-### “Cyber security at scale” becomes the baseline
-The NCSC frames this as a resilience problem: a growing gap between organisations that keep pace and those that don’t.   
-
-For defenders, that implies:
-- Manual security doesn’t scale.
-- Safe automation, strong identity, and measurable patch/response processes matter more.
+- AI boosts scale and efficiency across intrusion steps (social engineering, vulnerability research, exploitation workflows, malware generation).
+- That increases pressure on basic disciplines such as: patching, hardening, detection, and response speed.   
 
 ---
 
-## Part 2: what recent cloud outages reveal about resilience
+## Recent cloud outages reveal about resilience
 When cloud outages happen, they often expose the “hidden” dependencies that resilience plans ignore (DNS, control planes, automation, and provider dependency chains).
 
-### Case study A: AWS US-EAST-1 (Oct 20, 2025) — DNS + service dependency blast radius
+###  [AWS US-EAST-1] (Oct 20, 2025) — DNS and service dependency blast radius
+[AWS US-EAST-1]: https://medium.com/@ismailkovvuru/aws-us-east-1-dns-dynamodb-outage-oct-20-2025-root-cause-lessons-and-the-future-of-cloud-47bd1848a0c8
+
 Reuters reported the outage involved a DNS problem that prevented applications from resolving the correct address for the DynamoDB API, disrupting many online services.   
 
 **What this suggests as a cloud customer:**
 - “Multi-region” isn’t enough if your architecture still has central dependencies (like DNS resolution or regional control-plane assumptions).
 
-### Case study B: Google Cloud (June 12, 2025) — multi-product disruption
-Reuters covered a major Google Cloud outage that affected platforms including Spotify and Discord.   
-Google’s incident page also records an event window impacting multiple products.   
-
-**What this suggests as a cloud customer:**
-- Assume provider-wide incidents can happen.
-- Architect for graceful degradation and clear incident communication paths.
-
-### Case study C: Azure Government ARM (Dec 8, 2025) — control plane degradation
-Microsoft’s Post Incident Review describes failures performing management operations through Azure Resource Manager (Portal, APIs, PowerShell, CLI).   
-
-**What this suggests as a cloud customer:**
-- Your workloads can be “running” while your ability to **manage** and **recover** is impaired.
-
 ---
 
-## Connecting the dots: speed + dependency
+## Connecting the dots
 These two trends reinforce each other:
 
-- **AI pressure**: faster/more scalable attempts → shorter time to exploit → defenders must reduce delay.   
-- **Cloud dependency**: outages and control-plane issues can reduce your ability to deploy mitigations or recover quickly.   
+- **AI pressure** means that faster, more scalable attempts → shorter time to exploit → defenders must reduce delay.   
+- **Cloud dependency** outages and control-plane issues can reduce your ability to deploy mitigations or recover quickly.   
 
 So resilience becomes a security capability:
 - Patch fast  
@@ -67,7 +48,7 @@ So resilience becomes a security capability:
 
 ---
 
-## What good looks like (NCSC Cloud Principles → actions)
+## What good practices looks like (NCSC Cloud Principles)
 I’m using the NCSC Cloud Security Principles as a backbone (covering areas like data protection, asset protection & resilience, separation, governance, operational security, identity, audit, and secure use).   
 
 ### A) Reduce the exploit window (AI-era reality)
