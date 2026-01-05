@@ -1,4 +1,4 @@
-> I’m using two NCSC sources to build my knowledge for 2026 [1][2]
+> I’m using two NCSC sources to build my knowledge for 2026 [1] [2]
 
 [1]: https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027
 [2]: https://www.ncsc.gov.uk/collection/cloud
