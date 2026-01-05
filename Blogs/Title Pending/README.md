@@ -4,8 +4,8 @@
 [2]: https://www.ncsc.gov.uk/collection/cloud
 
 ## This blog is aimed to address
-1. **Where the cyber threat is heading (2026 --> ), especially with AI**  
-2. **How to interpret “recent cloud outages” through a resilience and security lens**
+1.   **Where the cyber threat is heading (2026 --> ), especially with AI**  
+2.   **How to interpret “recent cloud outages” through a resilience and security lens**
 
 So I can apply in future projects and in a role.
 ## Scope 
