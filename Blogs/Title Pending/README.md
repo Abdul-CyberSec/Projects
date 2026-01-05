@@ -1,6 +1,6 @@
 > I’m using two NCSC sources to build my knowledge for 2026
 ## This blog is aimed to address
-1. **Where the cyber threat is heading, especially with AI**  
+1. **Where the cyber threat is heading (2026 --> ), especially with AI**  
 2. **How to interpret “recent cloud outages” through a resilience and security lens**
 
 So I can apply in future projects and in a role.
