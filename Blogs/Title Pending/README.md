@@ -1,4 +1,4 @@
-> I’m using two NCSC sources to build my knowledge for 2026
+> I’m using two NCSC sources to build my knowledge for 2026: [Impact of AI on cyber threat (now–2027)](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027) and [NCSC Cloud guidance](https://www.ncsc.gov.uk/collection/cloud).
 ## This blog is aimed to address
 1. **Where the cyber threat is heading (2026 --> ), especially with AI**  
 2. **How to interpret “recent cloud outages” through a resilience and security lens**
