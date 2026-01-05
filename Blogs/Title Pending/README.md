@@ -7,7 +7,6 @@
 1.   **Where the cyber threat is heading (2026 --> ), especially with AI**  
 2.   **How to interpret “recent cloud outages” through a resilience and security lens**
 
-  So I can apply in future projects and in a role.
 ## Scope 
 - AI is expected to amplify existing threats.   
 - Cloud dependency means reliability issues can cascade far beyond a single service or region
