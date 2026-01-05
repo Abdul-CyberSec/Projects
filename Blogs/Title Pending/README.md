@@ -1,4 +1,7 @@
-> I’m using [two NCSC sources](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027) to build my knowledge for 2026 ([cloud guidance](https://www.ncsc.gov.uk/collection/cloud)).
+> I’m using two NCSC sources to build my knowledge for 2026 [1][2]
+
+[1]: https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027
+[2]: https://www.ncsc.gov.uk/collection/cloud
 
 ## This blog is aimed to address
 1. **Where the cyber threat is heading (2026 --> ), especially with AI**  
