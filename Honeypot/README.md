@@ -118,11 +118,14 @@ enter this command:
 <img width="730" height="28" alt="image" src="https://github.com/user-attachments/assets/e9369090-0ac8-414a-b875-a7df92dfe9aa" />
 
 make sure interface matches your desired interface
-<img width="1169" height="270" alt="image" src="https://github.com/user-attachments/assets/165abb69-0875-459d-a14a-509d85101463" />
+<img width="1127" height="597" alt="image" src="https://github.com/user-attachments/assets/e89cde68-95c7-4b13-978b-f76070b2f6b6" />
+
 
 deploy Zeek
 <img width="703" height="33" alt="image" src="https://github.com/user-attachments/assets/e66415d4-606d-4fd5-9e1b-a02304a9f108" />
 
+Make sure Zeek is up and running 
+<img width="579" height="51" alt="image" src="https://github.com/user-attachments/assets/4f30cfc9-a70e-461d-a991-2c04eece0b14" />
 
 Install Suricata with this command 
 <img width="1169" height="75" alt="image" src="https://github.com/user-attachments/assets/de123086-cebd-458a-a9f7-c9b7275792f4" />
@@ -135,4 +138,8 @@ make sure to change IFACE so it matches your interface
 make sure Suricata is up and running 
 <img width="1198" height="276" alt="Screenshot 2026-01-04 163113" src="https://github.com/user-attachments/assets/e3c68ba6-f2f7-4179-9bdb-136b78c2cb1d" />
 
+#7 Commencing the Attacks
+
+In the Attacker VM enter this next command:
+<img width="885" height="29" alt="image" src="https://github.com/user-attachments/assets/8e9d5983-b129-4801-84dd-2de3ff630b31" />
 
